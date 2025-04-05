@@ -7,7 +7,7 @@ author_profile: true
 
 This page contains samples of my work in digital illustration.
 
-![chardesign_aria](https://github.com/user-attachments/assets/3f5af142-5c63-4c5d-821f-336e8cf963c4)
+![chardesign_aria_sample](https://github.com/user-attachments/assets/1c435095-e8ad-41f1-ad2c-32b527e4389f)
 
 ![backgroundaria_sample](https://github.com/user-attachments/assets/41c461fc-3eab-4e76-9679-a220516ffa1d)
 
