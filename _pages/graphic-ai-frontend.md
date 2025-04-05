@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 ---
 
-[**Project GitHub Repository**](https://github.com/LeeZeHao/GraphicAiFrontend)
-[**Releases**](https://github.com/LeeZeHao/GraphicAiFrontend/releases)
+### [**Project GitHub Repository**](https://github.com/LeeZeHao/GraphicAiFrontend)    
+### [**Releases**](https://github.com/LeeZeHao/GraphicAiFrontend/releases)
 
 ![image](https://github.com/user-attachments/assets/d6e65799-fb06-4d0c-ba12-6d09380e3ac6)
 
