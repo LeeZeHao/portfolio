@@ -1,6 +1,5 @@
 ---
 title:  "Kiki's Delivery"
-permalink: /portfolio/kikis-delivery/
 # header:
 #   teaser: "/assets/images/500x300.png"
 author_profile: true
