@@ -8,7 +8,7 @@ toc: true
 
 ## [Downloadable PDF](https://drive.google.com/file/d/1fYfHg5ChuDXXZ0z48jM7gWCu3mzDQIvD/view?usp=sharing)
 
-## EDUCATION
+# EDUCATION
 #### National University of Singapore - Bachelor of Computing in Computer Science (Ongoing, Aug 2023 - Jun 2027)
 - Current GPA: 4.82 / 5.00
 - Bachelor of Computing in Computer Science (with Honours) + Second Major in Data Analytics
@@ -18,14 +18,14 @@ toc: true
 Algorithms, Introduction to AI and Machine Learning, Introduction to Data Science, Essential Data Analytics Tools: Data Visualisation, Independent Software 
 Development Project (Orbital) 
    
-## TECHNICAL SKILLS
+# TECHNICAL SKILLS
 - Programming Languages: Java, C#, Python, C, JavaScript, JSX, HTML, CSS, R, SQL
 - Frameworks: Android Studio, React Native, Godot Engine, Unity, Unreal Engine
 - Libraries: NumPy, Pandas, PyTorch
 - Version control software: Git, GitHub, Sourcetree
 - Other: Unix, MySQL, Microsoft Office, Microsoft Power BI, MATLAB
    
-## PROJECTS
+# PROJECTS
 #### Developer, Independent Software Development Project (Orbital), National University of Singapore, Singapore (May 2024 - Aug 2024)
 - Created React Native based front-end application compatible with both Web and Android platforms, integrated with drone control software written by team-mate.
 - Implemented version control using Git with GitHub, with issues / work tracking via GitHub Issues.
@@ -48,7 +48,7 @@ Development Project (Orbital)
 - Devised third-person-shooter demo with Unreal Engine 5 including character models and animations self-made with Blender for prototyping and learning purposes.
 - Completed a 3D Unity 3D project with C# scripting for personal learning purposes, obtaining knowledge of the Unity framework, and improving skills in object oriented programming and Unity coding standards.
    
-## LEADERSHIP EXPERIENCE
+# LEADERSHIP EXPERIENCE
 #### Productions Vice Head, NUS Comics and Animation Society, National University of Singapore, Singapore (Jul 2024 - Present)
 - Organizes weekly learning / activity sessions for the Productions section of NUS Comics and Animation Society.
 - Collaborated / Collaborating in planning and execution of multiple major events, including Student Life Fair 2024 and Japanese Cultural Fair 2025, leading to effective promotion of our club activities to visitors.
@@ -58,7 +58,7 @@ Development Project (Orbital)
 - Taught LEGO Mindstorms EV3 programming to newer club members over July 2021 - May 2022.
 - Oversaw weekly LEGO Mindstorms EV3 section club activities during academic semesters.
 
-## ADDITIONAL SKILLS 
+# ADDITIONAL SKILLS 
 - English (Native) with CEFR C1 certification, Chinese (Native), Malay (Upper Intermediate)
 - Blender 3D Modelling / Animation (Intermediate, hobbyist)
 - 2D Digital Illustration (Intermediate)
