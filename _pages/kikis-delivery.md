@@ -24,4 +24,8 @@ author_profile: true
 - Obtained "Apollo 11" (Second highest) level of achievement after final evaluation. 
 
 ## Motivation
-Our motivation is to create a simple FPV (First Person View) ground drone rental service, catering to both individuals and commercial entities seeking short-term use of ground drones. Individuals or commercial entities may require remote drones for purposes such as surveying, supervision, patrols, etc. However, remote drone systems can be expensive. At the same time, setting up drone systems eats into project time, manpower and technical resources. Therefore, We seek to offer a drone rental service that is both affordable and easy to get started with. In this way, we eliminate the need for purchase and setup of an entire drone system, which may be prohibitively expensive or technically infeasible, especially for short-term uses or small projects.
+Our motivation is to create a simple FPV (First Person View) ground drone rental service, catering to both individuals and commercial entities seeking short-term use of ground drones.     
+    
+Individuals or commercial entities may require remote drones for purposes such as surveying, supervision, patrols, etc. However, remote drone systems can be expensive. At the same time, setting up drone systems eats into project time, manpower and technical resources.     
+    
+Therefore, We seek to offer a drone rental service that is both affordable and easy to get started with. In this way, we eliminate the need for purchase and setup of an entire drone system, which may be prohibitively expensive or technically infeasible, especially for short-term uses or small projects.
