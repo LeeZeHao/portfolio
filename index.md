@@ -2,6 +2,7 @@
 title: About
 layout: single
 author_profile: true
+exclude_from_portfolio: true
 feature_row:
   - image_path: /assets/images/resume.jpg
     alt: "resume"
