@@ -6,7 +6,7 @@ author_profile: true
 ---
 <ul>
   {% for page in site.pages %}
-    {% if page.url contains '/_portfolio/' %}
+    {% if page.title and page.exclude_from_list != true %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>
     {% endif %}
   {% endfor %}
