@@ -23,5 +23,5 @@ I am studying at the National University of Singapore (Projected graduation July
   
 Currently undertaking a **Bachelor's Degree in Computer Science (with Honours)** with a **Second Major in Data Analytics**. 
 
-{% include feature_row %}
+{% include feature_row type=center %}
 
