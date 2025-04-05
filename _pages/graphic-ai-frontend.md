@@ -8,6 +8,8 @@ author_profile: true
 [**Project GitHub Repository**](https://github.com/LeeZeHao/GraphicAiFrontend)
 [**Releases**](https://github.com/LeeZeHao/GraphicAiFrontend/releases)
 
+![image](https://github.com/user-attachments/assets/d6e65799-fb06-4d0c-ba12-6d09380e3ac6)
+
 ## Description
 A dynamic and simple to use graphic front end for local LLMs.      
 Supports the Windows platform. Developed using Unity 6. Tested with KoboldCPP running bartowski/Mistral-Nemo-Instruct-2407-GGUF.
