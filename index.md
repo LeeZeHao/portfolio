@@ -22,10 +22,7 @@ feature_row:
 
 I am studying at the National University of Singapore (Projected graduation July 2027).        
   
-Undertaking a    
-**Bachelor's Degree in Computer Science (with Honours)**     
-with a    
-**Second Major in Data Analytics**. 
+Undertaking a  Bachelor's Degree in Computer Science (with Honours) with a Second Major in Data Analytics. 
 
 {% include feature_row type=center %}
 
