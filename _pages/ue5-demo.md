@@ -1,6 +1,6 @@
 ---
 permalink: /ue5-demo/
-title: Unreal Engine 5 demo
+title: Unreal Engine 5 Third Person Demo
 layout: single
 author_profile: true
 ---
