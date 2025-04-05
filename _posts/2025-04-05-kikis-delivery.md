@@ -5,6 +5,7 @@ title:  "Kiki's Delivery"
 author_profile: true
 read_time: false
 comments: false
+show_last_modified_at: false
 share: false
 related: true
 categories: 
