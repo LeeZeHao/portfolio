@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 ---
 
+## [Downloadable PDF](https://drive.google.com/file/d/1fYfHg5ChuDXXZ0z48jM7gWCu3mzDQIvD/view?usp=sharing)
+
 ## EDUCATION
 #### National University of Singapore - Bachelor of Computing in Computer Science (Ongoing, Aug 2023 - Jun 2027)
 - Current GPA: 4.82 / 5.00
@@ -29,7 +31,7 @@ Development Project (Orbital)
 - Wrote over 100 pages of project documentation recording development of various project features, project log, and target features, with updates at each monthly milestone, hosted as GitHub Pages website (based on Jekyll template), increasing searchability and convenience for both users and project developers.
 - Obtained "Apollo 11" (Second highest) level of achievement after final evaluation.
   
-#### Developer, Personal LLM Graphic Frontend Project (Jan 2025)
+#### Developer, Personal LLM Graphic Frontend Project (Jan 2025 - Mar 2025)
 - Wrote a Unity project with C# scripting to augment locally hosted LLM (Large Language Model) with use of KoboldAI REST API, to provide an intuitive and responsive graphical user interface for local AI interaction.
 - Leveraged local LLM capabilities to detect up to 6 customizable emotions in bot response, and dynamically display the correct graphics for the bot.
 - Developed system for users to customize the bot graphics, by loading custom images for the bot, background and different emotions, increasing flexibility to suit different users’ needs.
