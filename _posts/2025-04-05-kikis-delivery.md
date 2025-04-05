@@ -1,4 +1,7 @@
 ---
-title: "My First Post"
-layout: post
+title: "Kiki's Delivery"
+layout: single
+author_profile: true
 ---
+
+
