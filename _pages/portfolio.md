@@ -1,7 +1,7 @@
 ---
-permalink: /portfolio/
 title: "Portfolio"
-layout: single
+permalink: /portfolio/
+layout: posts
 author_profile: true
 ---
 
