@@ -1,6 +1,6 @@
 ---
 title: About
-layout: single
+layout: splash
 author_profile: true
 feature_row:
   - image_path: /assets/images/resume.jpg
