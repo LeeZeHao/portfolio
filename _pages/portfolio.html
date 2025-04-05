@@ -5,9 +5,9 @@ layout: single
 author_profile: true
 ---
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
+  {% for page in site.pages %}
+    {% if page.url contains '/_portfolio/' %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
