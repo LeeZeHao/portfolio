@@ -1,6 +1,6 @@
 ---
 permalink: /test/
-title: "Test"
+title: Test
 layout: single
 author_profile: true
 toc: true
