@@ -1,5 +1,4 @@
 ---
-permalink: /portfolio/test
 title: "Test"
 layout: single
 author_profile: true
