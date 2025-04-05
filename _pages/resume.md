@@ -5,9 +5,6 @@ layout: single
 author_profile: true
 toc: true
 ---
-
-[Downloadable PDF](https://drive.google.com/file/d/1fYfHg5ChuDXXZ0z48jM7gWCu3mzDQIvD/view?usp=sharing)
-
 # EDUCATION
 #### National University of Singapore - Bachelor of Computing in Computer Science (Ongoing, Aug 2023 - Jun 2027)
 - Current GPA: 4.82 / 5.00
@@ -17,7 +14,7 @@ toc: true
 - Relevant Coursework: Software Engineering, Effective Communication for Computing Professionals, Data Structures and 
 Algorithms, Introduction to AI and Machine Learning, Introduction to Data Science, Essential Data Analytics Tools: Data Visualisation, Independent Software 
 Development Project (Orbital) 
-   
+
 # TECHNICAL SKILLS
 - Programming Languages: Java, C#, Python, C, JavaScript, JSX, HTML, CSS, R, SQL
 - Frameworks: Android Studio, React Native, Godot Engine, Unity, Unreal Engine
