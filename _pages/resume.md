@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-## [Downloadable PDF](https://drive.google.com/file/d/1fYfHg5ChuDXXZ0z48jM7gWCu3mzDQIvD/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1fYfHg5ChuDXXZ0z48jM7gWCu3mzDQIvD/view?usp=sharing" target="_blank">Downloadable PDF</a>
 
 ## EDUCATION
 ### National University of Singapore - Bachelor of Computing in Computer Science (Ongoing, Aug 2023 - Jun 2027)
