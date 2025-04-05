@@ -1,5 +1,6 @@
 ---
 title:  "Kiki's Delivery"
+permalink: /kikis-delivery/
 # header:
 #   teaser: "/assets/images/500x300.png"
 author_profile: true
