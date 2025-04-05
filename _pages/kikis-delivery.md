@@ -17,6 +17,9 @@ author_profile: true
 - [**Documentation GitHub Repository**](https://github.com/LeeZeHao/Kiki_Delivery_Docs)
 - [**Documentation**](https://leezehao.github.io/Kiki_Delivery_Docs/)
 
+## Description
+A simple FPV (First Person View) ground drone rental service, catering to both individuals and commercial entities seeking short-term use of ground drones. The drone utilizes WebRTC technology to enable infinite range remote control over the internet.
+
 ## Achievements
 - Created React Native based front-end application compatible with both Web and Android platforms, integrated with drone control software written by team-mate.
 - Implemented version control using Git with GitHub, with issues / work tracking via GitHub Issues.
