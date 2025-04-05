@@ -3,14 +3,14 @@ title: About
 layout: single
 author_profile: true
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/resume.jpg
     alt: "resume"
     title: "Resume"
     excerpt: "Resume of Lee Ze Hao"
     url: "/resume/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/portfolio.png
     alt: "portfolio"
     title: "Portfolio"
     excerpt: "Past projects and productions of Lee Ze Hao"
