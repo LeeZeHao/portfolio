@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 ---
 
-Note: Developed for **Foon Yew High School Johor Bahru, Johor, Malaysia**. Unfortunately, the website has since been closed down.
+Note: Developed for **Foon Yew High School Johor Bahru, Johor, Malaysia** during August 2022. Unfortunately, the website has since been closed down.
 
 ## Description
-Design, illustration and production of two minigames using the Godot 3 game engine for the school anniversary website within 1 month. The games were published as web games using HTML5 export formats.  
+Design, illustration and production of two minigames using the Godot 3 game engine for the 2022 school anniversary website within 1 month. The games were published as web games using HTML5 export formats.  
 
 ## Assignments
 - Collaborated with others building the 2022 school anniversary website within a timeframe of 1 month.
