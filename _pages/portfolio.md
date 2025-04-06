@@ -16,6 +16,7 @@ My past projects and productions.
 ### [Games for School Anniversary Website](https://leezehao.github.io/portfolio/school-anniversary-games/)
     
 ## Digital Arts
+### [Blender Modelling and Animation](https://leezehao.github.io/portfolio/blender/)
 ### [Digital Illustration](https://leezehao.github.io/portfolio/digital-illustration/)
 
 
