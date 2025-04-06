@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Lee Ze Hao"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Computer Science student studying at the National University of Singapore."
+  bio              : "Computer Science student studying at the National University of Singapore."
   location         : "Singapore"
   email            :
   links:
