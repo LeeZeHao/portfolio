@@ -19,8 +19,6 @@ Character models and animations made using Blender 3D. Some of these character m
 - Produced over 30 individual animations to ensure smooth animation blending in Unreal Engine demo.
 - Developed custom NPR shaders to achieve unique stylized art style, both in Blender and Unreal Engine.
 
-![image](https://github.com/user-attachments/assets/a2cdfd0e-1610-4b88-a6f3-908177bbd4bd)
-
 
 
 
