@@ -18,7 +18,7 @@ author_profile: true
 - [**Documentation**](https://leezehao.github.io/Kiki_Delivery_Docs/)
 
 ## Description
-Part of Orbital 2024 (NUS Independent Software Development Project)
+Part of Orbital 2024 (NUS Independent Software Development Project).
 
 A simple FPV (First Person View) ground drone rental service, catering to both individuals and commercial entities seeking short-term use of ground drones. The drone utilizes WebRTC technology to enable infinite range remote control over the internet.
 
