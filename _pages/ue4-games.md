@@ -20,3 +20,6 @@ A fast paced horde-type FPS minigame with multiple weapons and different enemy t
 A prototype / minigame FPS with time slow mechanics and throwable physics objects.    
 ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/264e566b-9ed7-4ec3-b14f-d9f90d4370bd)
 
+## Network Problems
+An atmospheric game with a realistically simulated revolver. Defend the server against attacking enemies.      
+![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/13580d8f-ee02-4407-9844-121b7a911981)
