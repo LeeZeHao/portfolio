@@ -11,7 +11,7 @@ author_profile: true
 ![image](https://github.com/user-attachments/assets/5093f8c2-239f-4c47-9c87-7e2e51b9bba7)
 
 ## Description
-A third-person-shooter demo built in Unreal Engine 5 with a complete animation system, custom shaders and vfx particle effects system for prototyping and learning purposes. Built around May 2023 - July 2023.
+A third-person-shooter demo built in Unreal Engine 5 with a complete animation system, custom shaders and VFX particle effects system for prototyping and learning purposes. Built around May 2023 - July 2023.
 
 ## Achievements
 - Devised third-person-shooter demo with Unreal Engine 5 with functional animation blending, custom shaders and vfx particle effects system for prototyping and learning purposes. 
