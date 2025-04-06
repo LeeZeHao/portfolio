@@ -5,7 +5,8 @@ layout: single
 author_profile: true
 ---
 
-![Untitled video - Made with Clipchamp (3)](https://github.com/user-attachments/assets/bca4ef02-ff2a-4426-baee-57fe06d26895)
+<img src="https://github.com/user-attachments/assets/bca4ef02-ff2a-4426-baee-57fe06d26895" style="width: 100%; height: auto;" alt="GIF"/>      
+
 ![image](https://github.com/user-attachments/assets/94329137-a863-411d-98c9-a266ecd896d6)
 ![image](https://github.com/user-attachments/assets/3ef03103-bd88-4103-bd6f-29689211426b)
 ![image](https://github.com/user-attachments/assets/5093f8c2-239f-4c47-9c87-7e2e51b9bba7)
