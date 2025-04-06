@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ![image](https://github.com/user-attachments/assets/27515c65-b846-4863-9468-d55ee7875f5c)
+
 ![image](https://github.com/user-attachments/assets/faad3c3e-e7cf-4d79-a5cf-dfc3d9b41d7a)
+
 ![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/7c579310-c323-43aa-b817-901a64072b26)
 
 ## Description
@@ -16,5 +18,10 @@ Character models and animations made using Blender 3D. Some of these character m
 - Designed, modelled, and textured fully rigged 3D character for use in animation and Unreal Engine game demo.
 - Produced over 30 individual animations to ensure smooth animation blending in Unreal Engine demo.
 - Developed custom NPR shaders to achieve unique stylized art style, both in Blender and Unreal Engine.
+
+![image](https://github.com/user-attachments/assets/a2cdfd0e-1610-4b88-a6f3-908177bbd4bd)
+
+
+
 
 
