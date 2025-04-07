@@ -15,3 +15,7 @@ This page contains samples of my work in digital illustration.
 
 ![eyecatch_sample](https://github.com/user-attachments/assets/81fcf0f9-a220-4f97-896b-8cd6454a3d43)
 
+
+Note: All images and characters displayed on this portfolio are original works. They may not be used, copied, reproduced, or distributed in any form without explicit permission.
+
+
