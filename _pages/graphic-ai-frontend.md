@@ -10,6 +10,9 @@ author_profile: true
 
 ![image](https://github.com/user-attachments/assets/d6e65799-fb06-4d0c-ba12-6d09380e3ac6)
 
+![image](https://github.com/user-attachments/assets/101e1d6b-2439-4f36-ad93-2dad23e2c1d4)
+
+
 ## Description
 A dynamic and simple to use graphic front end for local LLMs.      
 Supports the Windows platform. Developed using Unity 6. Tested with KoboldCPP running bartowski/Mistral-Nemo-Instruct-2407-GGUF.
