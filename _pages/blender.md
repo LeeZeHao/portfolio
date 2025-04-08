@@ -11,6 +11,14 @@ author_profile: true
 
 ![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/7c579310-c323-43aa-b817-901a64072b26)
 
+![image](https://github.com/user-attachments/assets/6879f50a-cd60-40b0-91a3-35c24f9f963d)
+
+![Untitled video - Made with Clipchamp (6)](https://github.com/user-attachments/assets/effa1670-e2a3-443d-8e49-48f471b8ede7)
+
+![image](https://github.com/user-attachments/assets/f18e1485-257d-4e34-9c26-7aab5b0e74b9)
+
+
+
 ## Description
 Character models and animations made using Blender 3D. Some of these character models were imported and used in the [Unreal Engine 5 Third Person Demo Project](https://leezehao.github.io/portfolio/ue5-demo/).
 
